@@ -23,7 +23,7 @@ I'm a Mechanical Engineer and Physicist with a passion for problem-solving and d
 
 ## 🚀 Projects
 
-- NBA Game Predictor(https://github.com/almustaphasilvester/nba-ml-predictor): A Tensorflow Model that predicts NBA games!
+- [NBA Game Predictor](https://github.com/almustaphasilvester/nba-ml-predictor): A Tensorflow Model that predicts NBA games!
 
 ## 🤝 Connect
 
