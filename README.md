@@ -23,13 +23,13 @@ I'm a Mechanical Engineer and Physicist with a passion for problem-solving and d
 
 ## 🚀 Projects
 
-- NBA Game Predictor (https://github.com/almustaphasilvester/nba-ml-predictor): Brief description of project.
+- NBA Game Predictor(https://github.com/almustaphasilvester/nba-ml-predictor): A Tensorflow Model that predicts NBA games!
 
 ## 🤝 Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/almustaphasilvester/)
-- GitHub: [Your GitHub Profile](https://github.com/almustaphasilvester/almustaphasilvester/)
-- Email: [Your Email Address](mailto:almustaphasilvester@gmail.com)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/almustaphasilvester/)
+- GitHub: [My GitHub Profile](https://github.com/almustaphasilvester/almustaphasilvester/)
+- Email: [My Email Address](mailto:almustaphasilvester@gmail.com)
 
 Feel free to reach out if you'd like to collaborate on a project or chat about anything related to Mechanical Engineering, Physics, or Data Analysis!
 
@@ -38,3 +38,5 @@ Thanks for stopping by! 😄
 ## My Github Stats 🏆
 
 [![Staphs's GitHub stats](https://github-readme-stats.vercel.app/api?username=almustaphasilvester)](https://github.com/almustaphasilvester/github-readme-stats)
+
+[![Stapha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almustaphasilvester&hide_progress=true)](https://github.com/almustaphasilvester/github-readme-stats)
