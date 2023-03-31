@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Almustapha Silvester 👋
 
 I'm a Mechanical Engineer and Physicist with a passion for problem-solving and data analysis. I'm skilled in MATLAB, Python, and telecommunications data transmission, and have experience developing code to communicate with data warehouses. I'm also proficient in JS, HTML, CSS, QuickBase, and SQL.
 
