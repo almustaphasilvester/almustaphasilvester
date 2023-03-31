@@ -37,6 +37,6 @@ Thanks for stopping by! 😄
 
 ## My Github Stats 🏆
 
-[![Staphs's GitHub stats](https://github-readme-stats.vercel.app/api?username=almustaphasilvester)](https://github.com/almustaphasilvester/github-readme-stats)
+[![Stapha's GitHub stats](https://github-readme-stats.vercel.app/api?username=almustaphasilvester)](https://github.com/almustaphasilvester/github-readme-stats)
 
 [![Stapha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almustaphasilvester&hide_progress=true)](https://github.com/almustaphasilvester/github-readme-stats)
