@@ -20,6 +20,8 @@ I'm a Mechanical Engineer and Physicist with a passion for problem-solving and d
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![QuickBase](https://img.shields.io/badge/-QuickBase-6B4E8D?style=flat-square&logo=quickbase&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 🚀 Projects
 
