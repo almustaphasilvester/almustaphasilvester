@@ -25,7 +25,7 @@ I'm a Mechanical Engineer and Physicist with a passion for problem-solving and d
 ## 🚀 Projects
 
 - [NBA Game Predictor](https://github.com/almustaphasilvester/nba-ml-predictor): A Tensorflow Model that predicts NBA games!
-- [ArbiTweets](https://twitter.com/ArbiTweetMaster): A Twitter Bot Account that reports on arbitrage sports betting!
+- [ArbiTweets](https://twitter.com/ArbiTweets1): A Twitter Bot Account that reports on arbitrage sports betting!
 
 ## 🤝 Connect
 
